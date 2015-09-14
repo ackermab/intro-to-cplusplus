@@ -3,8 +3,7 @@ using namespace std;
 
 int main()
 {
-	cout << "Hello, World! My name is Brennan Ackerman." << endl;
-	system("pause()");
+	cout << "Hello World" << endl;
 
 	return 0;
 }
